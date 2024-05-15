@@ -1,0 +1,43 @@
+
+body{
+    background-color: aqua;
+    border: 2px solid black;
+    width: 1440px;
+}
+header{
+    background-color: aquamarine;
+    border: 3px solid black;
+    width: 1170px;
+    height: 67px;
+    margin-top: 32px;
+    margin-left: 135px;
+    display: flex;
+    justify-content: space-between;
+}
+div{
+    background-color: gold;
+}
+nav{
+    background-color: lightsalmon;
+    width: 312px;
+    height: 24px;
+    margin-top: 30px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+#ContenedorLogos{
+    width: 154.9px;
+    height: 41.58px;
+    margin-top: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+
+
+
+
